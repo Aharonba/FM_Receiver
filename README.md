@@ -16,9 +16,9 @@ The flowgraph is designed to:
   - **Waterfall Sink:** Provides a spectrogram view that tracks signal changes over time.
 - **Select Stations:**  
   A station chooser offers three preset options:
-  - Galei Tzahal (98.8 FM)
+  - Galei Tzahal 
   - Radio Lev HaMedina
-  - Radio Kol Chai (93.0 FM)
+  - Radio Kol Chai 
 
 ## Flowgraph Structure
 
